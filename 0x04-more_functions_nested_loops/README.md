@@ -7,3 +7,4 @@ Write a function that prints 10 times the numbers, from 0 to 14
 Write a function that draws a straight line in the terminal.
 Where n is the number of times the character \ should be printed
 Write a function that prints a square, followed by a new line.
+Write a program that prints the numbers from 1 to 100
