@@ -33,11 +33,7 @@ int main(void)
 				printf("Buzz ");
 			}
 		}
-		else
-		{
-			printf("%d ", h);
-		}
-		printf("\n");
+		else 
+ 
 
-		return (0);
-}
+
